@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**st3moraes/st3moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Stephany Resaghi de Moraes
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScrip
+- Utilizo esse espaço para minha organização
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Voce pode entrar em contato comigo 📧
+
+- stephanyresaghi@gmail.com
+
+![](https://tenor.com/pt-BR/view/zebun-zebun-nahar-zebun-nahar-shin-nahar-shin-gif-27024836)
